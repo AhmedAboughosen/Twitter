@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="UserContentModel">
-    <attachedFolders />
+    <attachedFolders>
+      <Path>Twitter.Gateway</Path>
+      <Path>Twitter.SendEmail</Path>
+      <Path>Twitter.Tweet</Path>
+      <Path>Twitter.User</Path>
+    </attachedFolders>
     <explicitIncludes />
     <explicitExcludes />
   </component>

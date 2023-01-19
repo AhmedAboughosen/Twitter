@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package twitter.tweet;
+
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Twitter.Web.Grpc.Protos.Tweet";
+
+
+service TweetAction {
+  rpc NewTweet (CreateTweetRequest) returns (MessageResponse);
+}
+
+message CreateTweetRequest {
+  GrpcTweetContentType grpc_tweet_content_type = 1;
+  string content = 2;
+  string user_id = 3;
+}
+
+message MessageResponse {
+  string message = 1;
+}
+
+enum GrpcTweetContentType{
+  Image = 0;
+  Text = 1;
+  Video = 2;
+}

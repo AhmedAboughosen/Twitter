@@ -1,0 +1,4 @@
+obj\Debug\net5.0\Protos/Rebuild.cs \
+obj\Debug\net5.0\Protos/RebuildGrpc.cs: C:/Users/a.hassan/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/wrappers.proto\
+ C:/Users/a.hassan/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/empty.proto\
+ Protos/rebuild.proto

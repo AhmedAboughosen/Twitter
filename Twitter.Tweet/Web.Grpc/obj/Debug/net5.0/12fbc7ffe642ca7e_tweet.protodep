@@ -1,0 +1,5 @@
+obj\Debug\net5.0\Protos/Tweet.cs \
+obj\Debug\net5.0\Protos/TweetGrpc.cs: C:/Users/a.hassan/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/wrappers.proto\
+ C:/Users/a.hassan/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/a.hassan/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/tweet.proto

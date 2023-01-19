@@ -1,0 +1,15 @@
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\bin\Debug\net5.0\Core.Application.deps.json
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\bin\Debug\net5.0\Core.Application.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\bin\Debug\net5.0\ref\Core.Application.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\bin\Debug\net5.0\Core.Application.pdb
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\bin\Debug\net5.0\Core.Domain.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\bin\Debug\net5.0\Core.Domain.pdb
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.csproj.AssemblyReference.cache
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.AssemblyInfoInputs.cache
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.AssemblyInfo.cs
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.csproj.CoreCompileInputs.cache
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.csproj.CopyComplete
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\ref\Core.Application.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Core.Application\obj\Debug\net5.0\Core.Application.pdb

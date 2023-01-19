@@ -1,0 +1,17 @@
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Infrastructure.MessageBus.deps.json
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Infrastructure.MessageBus.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\ref\Infrastructure.MessageBus.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Infrastructure.MessageBus.pdb
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Core.Application.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Core.Domain.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Core.Application.pdb
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\bin\Debug\net5.0\Core.Domain.pdb
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.csproj.AssemblyReference.cache
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.AssemblyInfoInputs.cache
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.AssemblyInfo.cs
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.csproj.CoreCompileInputs.cache
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.csproj.CopyComplete
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\ref\Infrastructure.MessageBus.dll
+D:\codes\Personal_Project\twitter\Twitter.Tweet\Infrastructure.MessageBus\obj\Debug\net5.0\Infrastructure.MessageBus.pdb

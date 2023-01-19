@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package twitter.tweet;
+
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "Twitter.Tweet.Grpc.Protos.Rebuild";
+
+service Rebuild {
+  rpc BuildUsers (BuildRequest) returns (google.protobuf.Empty);
+}
+
+message BuildRequest {
+  google.protobuf.Int32Value page = 1;
+  google.protobuf.Int32Value size = 2;
+}
