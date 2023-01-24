@@ -1,0 +1,12 @@
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.deps.json
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.AssemblyReference.cache
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb
