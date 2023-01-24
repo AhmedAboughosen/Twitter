@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q8W1XMyq6ueZkJ72+eRdLzDYxi+I/eiyuvsgMNUj6uhK+eKgJZHJG9iKWw8k1Ip/vjDztXe4fQqPzun+pZs99w==",
+  "dgSpecHash": "Pkt9iCQX7tHmsdWRwCVcQ+GDDAcTUBoNz0D0FWEbrqquuFNXWfQAyXVC3MRV7SjZ5Y0yQphNXmULiW3q7fG7Lw==",
   "success": true,
-  "projectFilePath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj",
+  "projectFilePath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.hassan\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\a.hassan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

@@ -1,10 +1,15 @@
-﻿using System.Net;
+﻿using System;
+using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 using Core.Application.Contracts.Repositories;
+using Core.Application.Contracts.Services;
 using Core.Domain.Entities;
+using Core.Domain.Events;
+using Core.Domain.Events.DataTypes;
 using Core.Domain.Exceptions;
 using Core.Domain.Model.DTO.RequestDTO;
+using Core.Domain.Model.MessageBroker;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 
@@ -14,11 +19,14 @@ namespace Infrastructure.Services.Handler
     {
         private readonly UserManager<User> _userManager;
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IUserInfoPublisher _userInfoPublisher;
 
-        public UnFollowerHandler(UserManager<User> userManager, IUnitOfWork unitOfWork)
+        public UnFollowerHandler(UserManager<User> userManager, IUnitOfWork unitOfWork,
+            IUserInfoPublisher userInfoPublisher)
         {
             _userManager = userManager;
             _unitOfWork = unitOfWork;
+            _userInfoPublisher = userInfoPublisher;
         }
 
 
@@ -40,7 +48,17 @@ namespace Infrastructure.Services.Handler
             await _unitOfWork.FollowerRepository.RemoveAsync(follower);
 
             await _unitOfWork.SaveChangesAsync();
-            
+
+            await _userInfoPublisher.SendMessageAsync(new MessageBody<UnFollowerAddedData>()
+            {
+                Data = new UnFollowerAddedData(follower.Id, follower.FolloweeId, follower.FollowersId),
+                Type = EventTypes.UnFollowerAdded,
+                AggregateId = user.Id,
+                Version = 1,
+                Sequence = 3,
+                DateTime = DateTime.UtcNow
+            });
+
             return true;
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0jN1sAI5V2nUH0m3U43hQHzq2NcPPUfq/j/gMcMhSEd4pwHw94aJsaDLl3xIqKDvvn/jGcNcI/nO7afraZ14A==",
+  "dgSpecHash": "SSIZcEmCh7aNs8xVghm3+xQ9Nxgbb855B7UXeomzuDD78e43vsiInugB82reCTXIDtEQgP1PJG7aXTMf304uRQ==",
   "success": true,
-  "projectFilePath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
+  "projectFilePath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.hassan\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\a.hassan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

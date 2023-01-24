@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure.MessageBus
-build_property.ProjectDir = D:\codes\Personal_Project\twitter\Twitter.User\Infrastructure.MessageBus\
+build_property.ProjectDir = D:\codes\Personal_Project\twitter\Twitter\Twitter.User\Infrastructure.MessageBus\

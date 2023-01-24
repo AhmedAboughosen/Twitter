@@ -996,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
+      "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
       "projectName": "Infrastructure.MessageBus",
-      "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
+      "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj",
       "packagesPath": "C:\\Users\\a.hassan\\.nuget\\packages\\",
-      "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.MessageBus\\obj\\",
+      "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.MessageBus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1017,8 +1017,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj": {
-              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj"
+            "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj": {
+              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj"
             }
           }
         }

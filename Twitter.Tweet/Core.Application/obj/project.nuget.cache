@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xqb6X40UDwBxtgpZ+BAx/Qia8joPlLBi0OldvDqlPp96V/21Rx6vCNsrU6KtT0f1stCcFELQ1UT0cFuIRs2mw==",
+  "dgSpecHash": "jf4Nw+okLZuBmF0Uq59bJXCfrhfQ4uJPWoUTiiobHaou1ALLqLeJ/eGOx8ed1bsykLHlVsE0W/12OPhqF7nL6Q==",
   "success": true,
-  "projectFilePath": "D:\\codes\\Personal_Project\\twitter\\Twitter.Tweet\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.Tweet\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.hassan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\a.hassan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",

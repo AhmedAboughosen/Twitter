@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj": {}
+    "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj": {}
   },
   "projects": {
-    "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj": {
+    "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj",
+        "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj",
         "packagesPath": "C:\\Users\\a.hassan\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\obj\\",
+        "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj": {
-                "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj"
+              "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj": {
+                "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj": {
+    "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj",
+        "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj",
         "projectName": "Core.Domain",
-        "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj",
+        "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj",
         "packagesPath": "C:\\Users\\a.hassan\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\obj\\",
+        "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj": {
+    "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj",
+        "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj",
         "projectName": "Infrastructure.Services",
-        "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj",
+        "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj",
         "packagesPath": "C:\\Users\\a.hassan\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\obj\\",
+        "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Application\\Core.Application.csproj"
+              "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Application\\Core.Application.csproj"
               },
-              "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj": {
-                "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj"
+              "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj": {
+                "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Core.Domain\\Core.Domain.csproj"
               }
             }
           }

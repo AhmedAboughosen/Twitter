@@ -3,5 +3,7 @@
     public class EventTypes
     {
         public const  string UserCreated = "UserCreated";
+        public const  string NewFollowerAdded = "NewFollowerAdded";
+        public const  string UnFollowerAdded = "UnFollowerAdded";
     }
 }

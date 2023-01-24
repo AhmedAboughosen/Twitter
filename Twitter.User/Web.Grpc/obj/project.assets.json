@@ -6157,11 +6157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Web.Grpc\\Web.Grpc.csproj",
+      "projectUniqueName": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Web.Grpc\\Web.Grpc.csproj",
       "projectName": "Web.Grpc",
-      "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Web.Grpc\\Web.Grpc.csproj",
+      "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Web.Grpc\\Web.Grpc.csproj",
       "packagesPath": "C:\\Users\\a.hassan\\.nuget\\packages\\",
-      "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Web.Grpc\\obj\\",
+      "outputPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Web.Grpc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6178,14 +6178,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj": {
-              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj"
+            "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj": {
+              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.MessageBus\\Infrastructure.MessageBus.csproj"
             },
-            "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
-              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj"
+            "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
+              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj"
             },
-            "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj": {
-              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj"
+            "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj": {
+              "projectPath": "D:\\codes\\Personal_Project\\twitter\\Twitter\\Twitter.User\\Infrastructure.Services\\Infrastructure.Services.csproj"
             }
           }
         }

@@ -10,6 +10,7 @@ namespace Infrastructure.MessageBus.Publisher
 {
     public class TweetInfoProducer : ITweetInfoProducer
     {
+        
         private readonly ConnectionFactory _connectionFactory;
         private readonly string _exchangeName;
         private readonly string _appId = "TweetInfo";
