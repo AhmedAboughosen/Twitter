@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package twitter.news_feed;
+
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Twitter.Web.NewsFeed.Grpc.Protos.news_feed";
+
+
+service NewsFeed {
+  rpc LatestTweet (CreateLatestTweetRequest) returns (LatestTweetListResponse);
+}
+
+message CreateLatestTweetRequest {
+  string page_number = 1;
+  string page_size = 2;
+  string user_id = 3;
+}
+
+message LatestTweetListResponse {
+  repeated LatestTweetResponse latest_tweet = 1;
+  string page_number = 2;
+  string page_size = 3;
+  string total_pages = 4;
+}
+
+message LatestTweetResponse {
+  UserInfo user_info = 1;
+  TweetInfo tweet_info = 2;
+}
+
+message UserInfo {
+  string full_name = 1;
+  string email = 2;
+}
+
+message TweetInfo {
+  string full_name = 1;
+  string email = 2;
+}

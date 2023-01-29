@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Core.Application.Contracts.Repositories;
 using Core.Domain.Entities;
@@ -17,5 +19,8 @@ namespace Infrastructure.Persistence.Repositories
 
         public Task<bool> AnyAsync(Guid tweetId)
             => _appDbContext.Tweets.AnyAsync(x => x.Id == tweetId);
+        
+        public Task<List<Tweet>> GetAsync(Guid userId)
+            => _appDbContext.Tweets.Where(x => x.UserId == userId).ToListAsync();
     }
 }

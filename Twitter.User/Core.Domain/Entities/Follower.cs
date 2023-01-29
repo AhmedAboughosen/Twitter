@@ -8,12 +8,13 @@ namespace Core.Domain.Entities
     {
         public Guid Id { get; private set; }
 
+        //Current User Id
         [ForeignKey("FolloweeId")]
         public string FolloweeId { get; private set; }
         public User Followee { get; private set; }
-        
-        
-        [ForeignKey("FollowersId")]
+
+        //this user follow FolloweeId
+        [ForeignKey("FollowersId")] 
         public string FollowersId { get; private set; }
         public User Followers { get; private set; }
 

@@ -9,13 +9,13 @@ namespace Core.Domain.Entities
     {
         public Guid Id { get; private set; }
 
-        [ForeignKey("FolloweeId")]
-        public string FolloweeId { get; private set; }
+
+        //Current User Id
+        [ForeignKey("FolloweeId")] public string FolloweeId { get; private set; }
         public User Followee { get; private set; }
-        
-        
-        [ForeignKey("FollowersId")]
-        public string FollowersId { get; private set; }
+
+        //User Id Follow this user 
+        [ForeignKey("FollowersId")] public string FollowersId { get; private set; }
         public User Followers { get; private set; }
 
 

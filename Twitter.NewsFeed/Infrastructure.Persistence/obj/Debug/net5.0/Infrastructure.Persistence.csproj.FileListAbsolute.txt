@@ -10,3 +10,11 @@ D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persis
 D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
 D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
 D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.runtimeconfig.json
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.runtimeconfig.dev.json
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Core.Application.dll
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Core.Domain.dll
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Core.Application.pdb
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\bin\Debug\net5.0\Core.Domain.pdb
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CopyComplete
+D:\codes\Personal_Project\twitter\Twitter\Twitter.NewsFeed\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.genruntimeconfig.cache
