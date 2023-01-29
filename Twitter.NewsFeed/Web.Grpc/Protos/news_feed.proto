@@ -14,16 +14,16 @@ service NewsFeed {
 }
 
 message CreateLatestTweetRequest {
-  string page_number = 1;
-  string page_size = 2;
+  int32 page_number = 1;
+  int32 page_size = 2;
   string user_id = 3;
 }
 
 message LatestTweetListResponse {
   repeated LatestTweetResponse latest_tweet = 1;
-  string page_number = 2;
-  string page_size = 3;
-  string total_pages = 4;
+  int32 page_number = 2;
+  int32 page_size = 3;
+  int32 total_pages = 4;
 }
 
 message LatestTweetResponse {
